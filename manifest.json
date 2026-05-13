@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Custom Agent Feedback",
+    "content_scripts": [
+        {
+            "js": ["content.js"]
+        }
+    ]
+}   
